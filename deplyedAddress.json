@@ -1,0 +1,11 @@
+{
+  "network": "arcTestnet",
+  "chainId": "5042002",
+  "deployer": "0x2500a16266187382173967016afbdabc5572f5bc",
+  "contracts": {
+    "ameowToken": "0x5c439c05c08b8450015fa4a741c624b7dabf5d31",
+    "catSVGRegistry": "0x02d042ac919f9d11b31b225b74fa62a73c44ff1e",
+    "domesticCatNFT": "0x5b3ca13089bd8274fc901d1cadff8f7f644af0e0"
+  },
+  "deployedAt": "2026-05-19T07:18:22.316Z"
+}

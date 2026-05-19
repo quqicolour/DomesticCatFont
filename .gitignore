@@ -1,0 +1,23 @@
+# Build artifacts (reference only, prefer publishing dist/ separately)
+domestic-cat-ui/dist/
+
+# Environment and secrets
+domestic-cat-ui/.env
+domestic-cat-ui/.env.local
+domestic-cat-ui/.env.production
+
+#
+node_modules 
+/node_modules
+
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Logs
+*.log
